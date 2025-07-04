@@ -57,8 +57,8 @@ This project showcases file handling, OOP concepts, input validation, and CLI UX
 1. **Clone this repository**
 
 ```bash
-git clone https://github.com/abhyuday-13/Bank-Terminal-Cpp.git
-cd Bank-Terminal-Cpp
+git clone https://github.com/abhyuday-13/Bank-Terminal.git
+cd Bank-Terminal
 ```
 
 2. **Compile the program**

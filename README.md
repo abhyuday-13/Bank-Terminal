@@ -78,7 +78,7 @@ On Linux/macOS:
 On Windows:
 
 ```bash
-bank_terminal.exe
+.\bank_terminal.exe
 ```
 
 ---

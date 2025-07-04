@@ -17,6 +17,7 @@
   - [📁 Project Structure](#-project-structure)
   - [🤝 Contributing](#-contributing)
   - [🧠 Future Improvements \& Ideas](#-future-improvements--ideas)
+  - [📃 License](#-license)
   - [🙏 Acknowledgments](#-acknowledgments)
 
 ---
@@ -166,6 +167,12 @@ Contributions are welcome! 🙌
 - 📊 CSV import/export support  
 - 🕒 Transaction history logs  
 - 🧱 Full OOP-based class refactor (Bank, Account, Transaction, etc.)  
+
+---
+
+## 📃 License
+
+This project is licensed under the [MIT License](LICENSE).
 
 ---
 
